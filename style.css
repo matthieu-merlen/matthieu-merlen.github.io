@@ -257,6 +257,11 @@ body{
     text-align: center;
 }
 
+.projet a{
+    color: #cc3535;
+    text-decoration: underline;
+}
+
 .projet hr{
     border-color: #cc3535;
 }
